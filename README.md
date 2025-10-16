@@ -5,7 +5,7 @@ My focus is on making motion both communicative and systematic: brand-coherent a
 
 Alongside projects, I enjoy exploring new workflow tricks that make motion design less overwhelming and more fun.
 
-🔗 My website: hvictoriashelest.framer.website
+🔗 My website: [victoriashelest.framer.website](https://victoriashelest.framer.website/)
 
 <!--
 **VictoriaShelest/VictoriaShelest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
